@@ -19,7 +19,7 @@ h1, h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525
+    color: #252525;
 }
 
 #logo {
@@ -87,10 +87,10 @@ h1, h2 {
 
 @keyframes hero-zoom {
     from {
-        transform: scale(1)
+        transform: scale(1);
     }
     to {
-        transform: scale(1.1)
+        transform: scale(1.1);
     }
 }
 
